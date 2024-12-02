@@ -591,8 +591,16 @@ video {
   height: 100vh;
 }
 
+.h-\[150px\] {
+  height: 150px;
+}
+
 .w-\[250px\] {
   width: 250px;
+}
+
+.w-\[150px\] {
+  width: 150px;
 }
 
 .grid-cols-12 {
