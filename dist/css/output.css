@@ -595,12 +595,28 @@ video {
   height: 150px;
 }
 
+.h-\[100px\] {
+  height: 100px;
+}
+
+.h-\[130px\] {
+  height: 130px;
+}
+
 .w-\[250px\] {
   width: 250px;
 }
 
 .w-\[150px\] {
   width: 150px;
+}
+
+.w-\[100px\] {
+  width: 100px;
+}
+
+.w-\[130px\] {
+  width: 130px;
 }
 
 .grid-cols-12 {
