@@ -603,6 +603,10 @@ video {
   height: 130px;
 }
 
+.h-\[140px\] {
+  height: 140px;
+}
+
 .w-\[250px\] {
   width: 250px;
 }
@@ -617,6 +621,10 @@ video {
 
 .w-\[130px\] {
   width: 130px;
+}
+
+.w-\[140px\] {
+  width: 140px;
 }
 
 .grid-cols-12 {
