@@ -562,6 +562,10 @@ video {
   grid-column: span 12 / span 12;
 }
 
+.col-span-6 {
+  grid-column: span 6 / span 6;
+}
+
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
@@ -622,8 +626,16 @@ video {
   background-color: rgb(236 252 203 / var(--tw-bg-opacity, 1));
 }
 
+.text-center {
+  text-align: center;
+}
+
 .text-\[50px\] {
   font-size: 50px;
+}
+
+.text-\[40px\] {
+  font-size: 40px;
 }
 
 .font-bold {
